@@ -5,7 +5,7 @@ subtitle: "MATH-AI: Toward Human-Level Mathematical Reasoning"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (NeurIPS 2021 Workshop: <a href="https://neurips.cc/virtual/2021/workshop/21828" target="_blank">Website</a>)
+  (NeurIPS 2022 Workshop: <a href="https://neurips.cc/Conferences/2022" target="_blank">Website</a>)
 </div>
 
 # Schedule
