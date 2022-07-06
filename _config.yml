@@ -8,7 +8,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MATHAI4ED Workshop at NeurIPS'21
+title: MATHAI Workshop at NeurIPS'22
 
 
 # Short description of your site
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Organizers of MATHAI4ED NeurIPS 2021 Workshop
+author: Organizers of MATHAI4 NeurIPS 2022 Workshop
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,7 +70,7 @@ author: Organizers of MATHAI4ED NeurIPS 2021 Workshop
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   # rss: true
-  email: "mathai4ed.neurips2021@gmail.com"
+  email: "mathai2022@gmail.com"
   # facebook: daattali
   # github: daattali
   # twitter: daattali
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mathai4ed.github.io" # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mathai2022.github.io" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
