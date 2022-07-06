@@ -37,7 +37,7 @@ We are also interested in works on other reasoning problems that share similar s
 * Text games -->
 
 
-The MathAI4Ed workshop will provide a forum for discussing how to investigate the *intersection* of mathematics education and AI. We hope to gather a group of experts from a diverse set of backgrounds, institutions, and disciplines to drive progress on these and other real-world education scenarios, and to discuss the promise and challenge of integrating mathematical AI into education. 
+The MathAI 2022 workshop will provide a forum for discussing how to investigate the *intersection* of mathematics education and AI. We hope to gather a group of experts from a diverse set of backgrounds, institutions, and disciplines to drive progress on these and other real-world education scenarios, and to discuss the promise and challenge of integrating mathematical AI into education. 
 
 In particular, we are interested in, but not limited to, the following areas of applications: 
 - **Teaching**: Intelligent tutoring systems that effectively assist students in math learning.
@@ -60,19 +60,19 @@ We are also interested in key advances in artificial intelligence and machine le
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
 **Paper submission opens:** Sep 3, 12:00PM PST  <br>
 <!-- **Deadline for paper submission: Oct 06, 2021 (11:59pm Pacific Time, one day after the ICLR 2022 submission deadline.)** <br> -->
-**Deadline for paper submission**: ~~Oct 06, 2021~~ **Oct 12, 2021 (11:59pm Pacific Time)** <br>
-**Notification:** Oct 23, 2021 (11:59pm Pacific Time) <br>
-**Camera Ready:** Nov 01, 2021 (11:59pm Pacific Time) <br>
-**Workshop:** Dec 14, 2021
+**Deadline for paper submission**: Oct 06, 2022 (11:59pm Pacific Time) <br>
+**Notification:** Oct 23, 2022 (11:59pm Pacific Time) <br>
+**Camera Ready:** Nov 01, 2022 (11:59pm Pacific Time) <br>
+**Workshop:** Dec 14, 2022
 
 ### Submission Requirements
 
-Submissions to MathAI4Ed 2021 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
+Submissions to MathAI 2022 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
-All submissions must be formatted with LaTeX using the [NeurIPS paper format (Adapted)](img/NeurIPS2021_MathAI4ED.zip).
+All submissions must be formatted with LaTeX using the [NeurIPS paper format (Adapted)](img/NeurIPS2022_MathAI.zip).
 
-All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MathAI4Ed homepage, but are to be considered non-archival. 
+All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MathAI 2022 homepage, but are to be considered non-archival. 
 
-Submission Link: [https://cmt3.research.microsoft.com/MATHAI4ED2021](https://cmt3.research.microsoft.com/MATHAI4ED2021)
+Submission Link: [https://cmt3.research.microsoft.com/MATHAI2022](https://cmt3.research.microsoft.com/MATHAI2022)
 
-Please email any enquiries to [mathai4ed.neurips2021@gmail.com](mailto:mathai4ed.neurips2021@gmail.com).
+Please email any enquiries to [mathai2022@gmail.com](mailto:mathai2022@gmail.com).

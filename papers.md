@@ -27,7 +27,7 @@ use-site-title: true
         </li>
     {% endfor %} -->
 
-  1. <b>MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education</b><br>     
+  <!-- 1. <b>MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education</b><br>     
     <i>Tracy Jia Shen; Michiharu Yamashita; Ethan Prihar; Neil Heffernan; Xintao Wu; Ben Graff; Dongwon Lee</i>
     <b>(Best Paper Award)</b><br>
     [<a href="papers/paper_1.pdf">Paper</a>]
@@ -124,7 +124,7 @@ use-site-title: true
     [<a href="papers/paper_13.pdf">Paper</a>]
     [<a href="posters/poster_13.png">Poster</a>]
     [<a href="https://eventhosts.gather.town/ysm3f4SN6wfVm7rn/matheai4ed-poster-room-1?map=poster-room-with-titles&spawnx=3&spawny=4">GatherTown</a>]
-    [<a href="https://neurips.cc/virtual/2021/workshop/21828">Video</a>] <br><br>
+    [<a href="https://neurips.cc/virtual/2021/workshop/21828">Video</a>] <br><br> -->
 
 </ol>
 </div>

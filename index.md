@@ -126,4 +126,4 @@ Enabling these applications requires not only innovations in math AI research, b
 
 <hr>
 
-Contact: <mathai4ed.neurips2021@gmail.com>.
+Contact: <mathai2022@gmail.com>.
