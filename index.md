@@ -70,7 +70,7 @@ In addition to the problem areas above, we are interested in research related to
   <div class="row">
     {% for p in site.data.speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>5 and forloop.index<=10%}
+    {% if forloop.index>4 and forloop.index<=10%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -103,7 +103,7 @@ In addition to the problem areas above, we are interested in research related to
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>3 and forloop.index<=6%}
+    {% if forloop.index>4 and forloop.index<=6%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
