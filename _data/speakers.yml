@@ -1,63 +1,58 @@
-yburda:
-    name: "Yuri Burda"
-    url: "https://scholar.google.com/citations?hl=en&user=Amky96kAAAAJ&view_op=list_works&sortby=pubdate"
+fcharton:
+    name: "François Charton"
+    url: "https://scholar.google.com/citations?user=1tMnd-4AAAAJ&hl=en"
+    affiliation: "Meta AI"
+    img: "fcharton.jpg"
+    bio: "François Charton is a Research Engineer at Meta AI Research. He studies AI for mathematics with a focus on symbolic mathematics, which includes learning advanced computations (e.g. integration, differential systems, linear algebra) and symbolic regression. Previously, he was a visiting entrepreneur at Facebook AI and CEO/Founder of Carthage."
+
+pclark:
+    name: "Peter Clark"
+    url: "https://allenai.org/team/peterc"
+    affiliation: "AI2"
+    img: "pclark.jpg"
+    bio: "Peter Clark is the Senior Research Manager for AI2. His work focuses on natural language processing, machine reasoning, large knowledge bases, and the interplay between these three areas. He has received several awards including a AAAI Best Paper (1997), Boeing Associate Technical Fellowship (2004), and AAAI Senior Member (2014). He is leading the Aristo team at AI2, and recently, he has been working on research areas including neuro-symbolic reasoning and universal mathematical reasoners."
+
+ngoodman:
+    name: "Noah D. Goodman"
+    url: "https://cocolab.stanford.edu/ndg"
+    affiliation: "Stanford University"
+    img: "noah.jpg"
+    bio: "Noah D. Goodman is Assistant Professor of Psychology, Linguistics (by courtesy), and Computer Science (by courtesy) at Stanford University. He received his Ph.D. in mathematics from the University of Texas at Austin in 2003. In 2005 he entered cognitive science, working as Postdoc and Research Scientist at MIT. In 2010 he moved to Stanford where he runs the Computation and Cognition Lab. He studies the computational basis of human thought, merging behavioral experiments with formal methods from statistics and logic. Specific projects vary from concept learning and language understanding to inference algorithms for probabilistic programming languages."
+
+ckaliszyk:
+    name: "Cezary Kaliszyk"
+    url: "http://cl-informatik.uibk.ac.at/cek/"
+    affiliation: "University of Innsbruck"
+    img: "ckaliszyk.jpg"
+    bio: "Cezary Kaliszyk is an Assistant Professor at the University of Innsbruck, where he leads the Computational Logic Group. He studies machine learning for reasoning and formal methods. He co-organized the 2021 Conference on Artificial Intelligence and Theorem Proving (AITP) and co-chaired the 2021 Conference on Interactive Theorem Proving (ITP). Recent projects include developing uniform learning-reasoning systems that support multiple logical foundations, machine learning for automated theorem proving, and proof automation."
+
+bneyshabur:
+    name: "Behnam Neyshabur"
+    url: "https://www.neyshabur.net/"
+    affiliation: "Google"
+    img: "behnam.jpg"
+    bio: "Behnam Neyshabur is a senior staff research scientist at Google. Before that, he was a postdoctoral researcher at New York University and a member of Theoretical Machine Learning program at Institute for Advanced Study (IAS) in Princeton. In summer 2017, he received a PhD in computer science at TTI-Chicago. His current primary interest is reasoning and algorithmic capabilities of giant language models, including permutation invariance, out-of-distribution generalization, and mathematical algorithms."
+
+tringer:
+    name: "Talia Ringer"
+    url: "https://dependenttyp.es/"
+    affiliation: "UIUC"
+    img: "tringer.jpeg"
+    bio: "Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans."
+
+dselsam:
+    name: "Daniel Selsam"
+    url: "https://dselsam.github.io/"
     affiliation: "OpenAI"
-    img: "yburda.jpg"
-    bio: "Yuri Burda received his PhD in mathematics at the University of Toronto. Since then, he has been a research scientist at OpenAI. He is now mainly focusing on applying machine learning to mathematical reasoning, with the aim to improve future math education."
+    img: "dselsam.jpg"
+    bio: "Daniel Selsam is a researcher at OpenAI. He founded and leads the IMO Grand Challenge, with the goal of building an AI that can win a gold medal in the International Mathematical Olympiad competition. His research includes machine learning for automated reasoning, e.g. neural SAT solving, olympiad geometry problems, and programming languages, including oracle-guided decision programming and optimizations for the Lean theorem prover."
 
-jboaler:
-    name: "Jo Boaler"
-    url: "https://ed.stanford.edu/faculty/joboaler"
-    affiliation: "Stanford University"
-    img: "jboaler.jpg"
-    bio: "Jo Boaler is a British education author and Nomellini-Olivier Professor of Mathematics Education at the Stanford Graduate School of Education. Boaler is involved in promoting reform mathematics and equitable mathematics classrooms. She is the co-founder and faculty director of youcubed, a Stanford centre that markets and sells mathematics education resources to teachers, students and parents. She is the author of nine books, including Limitless Mind (2019), Mathematical Mindsets (2016), What's Math Got To Do With It? (2009) and The Elephant in the Classroom (2010), all written for teachers and parents with the goal of improving mathematics education in both the US and UK."
+jsteinhardt:
+    name: "Jacob Steinhardt"
+    url: "https://jsteinhardt.stat.berkeley.edu/"
+    affiliation: "UC Berkeley"
+    img: "jsteinhardt.png"
+    bio: "Jacob Steinhardt is an Assistant Professor in Department of Statistics at UC Berkeley. He also consults part-time for Open Philanthropy. In the past he has worked at OpenAI and been a coach for the USA Computing Olympiad and an instructor at SPARC.  His research goal is to make the conceptual advances necessary for machine learning systems to be reliable and aligned with human values. For example, he is working on designing ML systems that conform to interpretable abstractions and constructing mathematical benchmarks that measure the problem-solving ability of machine learning models."
 
-hhajishirzi:
-    name: "Hannaneh Hajishirzi"
-    url: "https://homes.cs.washington.edu/~hannaneh/"
-    affiliation: "University of Washington"
-    img: "hhajishirzi.jpg"
-    bio: "Hanna Hajishirzi is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a Research Fellow at the Allen Institute for AI. Her research spans different areas in NLP and AI, focusing on developing machine learning algorithms that represent, comprehend, and reason about diverse forms of data at large scale. Applications for these algorithms include question answering, reading comprehension, representation learning, knowledge extraction, and conversational dialogue. Hanna received her PhD from University of Illinois and spent a year as a postdoc at Disney Research and CMU."
 
-cpiech:
-    name: "Chris Piech"
-    url: "https://web.stanford.edu/~cpiech/bio/index.html"
-    affiliation: "Stanford University"
-    img: "cpiech.jpg"
-    bio: "Chris Piech is an Assistant Professor of Computer Science Education, Stanford University. Piech was born and grew up in Nairobi, Kenya. When Piech was twelve Piech moved to Kuala Lumpur, Malaysia where Piech lived until Piech came to Stanford for university, liked it a lot and stayed. Piech loves teaching and Piech is into exploring our world (through both science and travelling). Piech's research is in machine learning to understand human learning."
-
-msachan:
-    name: "Mrinmaya Sachan"
-    url: "https://sites.google.com/site/mrinsachan/"
-    affiliation: "ETH"
-    img: "msachan.jpg"
-    bio: "Mrinmaya Sachan is an Assistant Professor in the Computer Science department at ETH Zurich. Sachan is also one of the core faculty members in the ETH AI center. His interests are in building machine learning models for natural language processing, knowledge discovery and reasoning. Specifically, He focuses on machine reading -- on building background knowledge of the world by extracting knowledge from text and incorporating the extracted background knowledge to solve problems that require reasoning. He is also interested in problems in natural language processing and education."
-
-ssingh:
-    name: "Sumeet Singh"
-    url: "https://www.linkedin.com/in/sumeetssingh/"
-    affiliation: "Turnitin"
-    img: "ssingh.jpg"
-    bio: "Sumeet Singh is a distinguished scientist at Turnitin Gradescope, a company that has provided AI-assisted grading service to more than 1000 universities across the world. Sighn has rich research and industry experiences and plans to share his expertise and insights in building grading systems at Gradescope."
-
-kvanlehn:
-    name: "Kurt Vanlehn"
-    url: "https://www.public.asu.edu/~kvanlehn/"
-    affiliation: "Arizona State University"
-    img: "kvanlehn.jpg"
-    bio: "Kurt VanLehn is the Diane and Gary Tooker Chair for Effective Education in Science, Technology, Engineering and Math in the Ira A. Fulton Schools of Engineering at Arizona State University. He received a doctorate from MIT in 1983 in computer science. He founded and co-directed two large National Sciences Foundation research centers. He has published more than 125 peer-reviewed publications, is a fellow in the Cognitive Science Society, and is on the editorial boards of Cognition and Instruction and the International Journal of Artificial Intelligence in Education. VanLehn's research focuses on intelligent tutoring systems, classroom orchestration systems, and other intelligent interactive instructional technology."
-
-swolfram:
-    name: "Stephen Wolfram"
-    url: "https://www.stephenwolfram.com/"
-    affiliation: "Wolfram Research"
-    img: "swolfram.png"
-    bio: "Stephen Wolfram is the creator of Mathematica, Wolfram|Alpha and the Wolfram Language; the author of A New Kind of Science; the originator of the Wolfram Physics Project; and the founder and CEO of Wolfram Research. Over the course of more than four decades, he has been a pioneer in the development and application of computational thinking—and has been responsible for many discoveries, inventions and innovations in science, technology and business. In 2012, he was named a fellow of the American Mathematical Society."
-
-szhu:
-    name: "Song-Chun Zhu"
-    url: "http://www.stat.ucla.edu/~sczhu/"
-    affiliation: "UCLA"
-    img: "szhu.jpg"
-    bio: "Song-Chun Zhu is a Chinese computer scientist and applied mathematician known for his work in computer vision, cognitive artificial intelligence and robotics. Zhu is a professor in the Departments of Statistics and Computer Science at the University of California, Los Angeles. Zhu also serves as Director of the UCLA Center for Vision, Cognition, Learning and Autonomy (VCLA). Zhu has published extensively and lectured globally on artificial intelligence, and in 2011, he became an IEEE Fellow (Institute of Electrical and Electronics Engineers) for “contributions to statistical modeling, learning and inference in computer vision.”"
 

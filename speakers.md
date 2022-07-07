@@ -1,7 +1,7 @@
 ---
 layout: page
-title: title: MATHAI4ED
-subtitle: "Math AI for Education: Bridging the Gap Between Research and Smart Education"
+title: title: MATH-AI
+subtitle: "Toward Human-Level Mathematical Reasoning"
 use-site-title: true
 ---
 
