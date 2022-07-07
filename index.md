@@ -61,7 +61,7 @@ In addition to the problem areas above, we are interested in research related to
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
-    {% if forloop.index<=5 %}
+    {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
@@ -94,7 +94,7 @@ In addition to the problem areas above, we are interested in research related to
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.organizers %}
-    {% if forloop.index<=3 %}
+    {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
