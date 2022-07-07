@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "MATH-AI: Toward Human-Level Mathematical Reasoning"
+subtitle: "Toward Human-Level Mathematical Reasoning"
 # venue: "NeurIPS Workshop 2021, December 13, 2021"
 use-site-title: true
 ---

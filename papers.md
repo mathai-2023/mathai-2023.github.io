@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "MATH-AI: Toward Human-Level Mathematical Reasoning"
+subtitle: "Toward Human-Level Mathematical Reasoning"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
