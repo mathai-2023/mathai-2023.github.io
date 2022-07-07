@@ -9,6 +9,9 @@ body {
   position: relative;
   background-color: #FFFFFF;
   
+  background-image: url(/img/mathai2022.png);
+  background-attachment: fixed;
+  
 }
 p {
   line-height: 1.5;
