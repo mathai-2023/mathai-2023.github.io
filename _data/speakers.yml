@@ -1,6 +1,6 @@
 fcharton:
     name: "François Charton"
-    url: "{https://scholar.google.com/citations?user=1tMnd-4AAAAJ&hl=en"
+    url: "https://scholar.google.com/citations?user=1tMnd-4AAAAJ&hl=en"
     affiliation: "Meta AI"
     img: "fcharton.jpg"
     bio: "François Charton is a Research Engineer at Meta AI Research. He studies AI for mathematics with a focus on symbolic mathematics, which includes learning advanced computations (e.g. integration, differential systems, linear algebra) and symbolic regression. Previously, he was a visiting entrepreneur at Facebook AI and CEO/Founder of Carthage."
