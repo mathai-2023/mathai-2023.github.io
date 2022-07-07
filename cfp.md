@@ -9,11 +9,8 @@ use-site-title: true
 </div>
 
 # Call for Papers
-Mathematical reasoning is a core ability of human intelligence and plays an important role in the development of general machine intelligence. The machine learning community has contributed significantly to mathematical reasoning research in the last decades, and recently, there has been a surge of interest in this domain. For example, large neural models have led to rapid progress in areas ranging from  word problems to formal theorem proving. However, there is a large performance gap between models and top mathematicians. To this end, the MATH-AI workshop will center around the question: 
 
-$$``How can machines achieve human-level mathematical reasoning?''$$
-
-Specifically, the goal of this workshop is to find out ``when machines can surpass human experts in different mathematical domains?". To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
+The goal of this workshop is to find out ``when machines can surpass human experts in different mathematical domains?". To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
 - **Humans vs. machines**: How does human-level mathematical reasoning differ from today's methods?
 - **Measurement**: How should we measure and benchmark progress moving forward?
 - **Key technical areas**: What machine learning advances are needed to close the gap with humans?
@@ -47,11 +44,11 @@ In addition to the problem areas above, we are interested in research related to
 
 ### Submission Requirements
 
-Submissions to MathAI 2022 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
+Submissions to Math-AI 2022 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
 All submissions must be formatted with LaTeX using the [NeurIPS paper format (Adapted)](img/NeurIPS2022_MathAI.zip).
 
-All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MathAI 2022 homepage, but are to be considered non-archival. 
+All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the Math-AI 2022 homepage, but are to be considered non-archival.
 
 Submission Link: [https://cmt3.research.microsoft.com/MATHAI2022](https://cmt3.research.microsoft.com/MATHAI2022)
 
