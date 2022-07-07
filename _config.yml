@@ -8,11 +8,11 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MATHAI Workshop at NeurIPS'22
+title: MATH-AI Workshop at NeurIPS'22
 
 
 # Short description of your site
-description: Math AI
+description: Math-AI
 
 # --- Navigation bar options --- #
 
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Organizers of MATHAI4 NeurIPS 2022 Workshop
+author: Organizers of MATH-AI NeurIPS 2022 Workshop
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

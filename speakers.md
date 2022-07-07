@@ -1,7 +1,7 @@
 ---
 layout: page
-title: title: MATHAI
-subtitle: "MATH-AI: Toward Human-Level Mathematical Reasoning"
+title: title: MATH-AI
+subtitle: "Toward Human-Level Mathematical Reasoning"
 use-site-title: true
 ---
 

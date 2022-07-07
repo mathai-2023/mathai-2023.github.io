@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MATHAI
-subtitle: "MATH-AI: Toward Human-Level Mathematical Reasoning"
+title: MATH-AI
+subtitle: "Toward Human-Level Mathematical Reasoning"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
@@ -10,7 +10,7 @@ use-site-title: true
 
 # Schedule
 
-#### Tuesday, December 14, 2021
+#### Tuesday, December 02, 2022
 #### All times are in PST (UTC -8)
 <!-- #### Location: West 109 + 110, Area West Level 1 -->
 <!-- #### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live) -->
