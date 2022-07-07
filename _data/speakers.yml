@@ -37,7 +37,7 @@ tringer:
     name: "Talia Ringer"
     url: "https://dependenttyp.es/"
     affiliation: "UIUC"
-    img: "behnam.jpg"
+    img: "tringer.jpeg"
     bio: "Talia Ringer is an Assistant Professor with the PL/FM/SE group at Illinois. Prior to Illinois, Dr. Talia earned a PhD in 2021 from the University of Washington, working with the PLSE group. Dr. Talia likes to build proof engineering technologies to make the world a reality. In doing so, Dr. Talia loves to use the whole toolbox --- everything from dependent type theory to program transformations to neural proof synthesis --- all in service of real humans."
 
 dselsam:
@@ -47,6 +47,12 @@ dselsam:
     img: "dselsam.jpg"
     bio: "Daniel Selsam is a researcher at OpenAI. He founded and leads the IMO Grand Challenge, with the goal of building an AI that can win a gold medal in the International Mathematical Olympiad competition. His research includes machine learning for automated reasoning, e.g. neural SAT solving, olympiad geometry problems, and programming languages, including oracle-guided decision programming and optimizations for the Lean theorem prover."
 
+jsteinhardt:
+    name: "Jacob Steinhardt"
+    url: "https://jsteinhardt.stat.berkeley.edu/"
+    affiliation: "UC Berkeley"
+    img: "jsteinhardt.png"
+    bio: "Jacob Steinhardt is an Assistant Professor in Department of Statistics at UC Berkeley. He also consults part-time for Open Philanthropy. In the past he has worked at OpenAI and been a coach for the USA Computing Olympiad and an instructor at SPARC.  His research goal is to make the conceptual advances necessary for machine learning systems to be reliable and aligned with human values. For example, he is working on designing ML systems that conform to interpretable abstractions and constructing mathematical benchmarks that measure the problem-solving ability of machine learning models."
 
 
 
