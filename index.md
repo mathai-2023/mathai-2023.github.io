@@ -14,6 +14,14 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
+# Previous MATH-AI Workshops
+
+<div class="container" style="margin-bottom: 10px;"></div>
+
+- 1st MATH-AI Workshop at ICLR'21: [The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
+- MATHAI4ED Workshop at NeurIPS'21: [Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)
+
+<div class="container" style="margin-bottom: 10px;"></div>
 
 # Overview
 
@@ -120,17 +128,14 @@ In addition to the problem areas above, we are interested in research related to
 </div>
 <hr>
 
-<!-- prettier-ignore -->
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
-
 - [NeurIPS'21 workshop on MATHAI4ED - Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)
-- [ICLR'21 workshop on The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
+- [ICLR'21 workshop on MATH-AI - The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
 - [NeurIPS'20 Workshop on KR2ML - Knowledge Representation & Reasoning Meets Machine Learning](https://kr2ml.github.io/2020)
 - [NeurIPS'20 workshop on Advances and Opportunities: Machine Learning for Education](https://www.ml4ed.org/)
 - [ICML'20 workshop on Bridge  Between Perception and Reasoning: Graph Neural Networks & Beyond](https://logicalreasoninggnn.github.io)
-
 
 <div class="container" style="margin-bottom: 10px;"></div>
 
