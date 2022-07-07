@@ -10,8 +10,8 @@ use-site-title: true
 
 # Schedule
 
-#### Tuesday, December 02, 2022
-#### All times are in PST (UTC -8)
+#### Friday, December 02, 2022
+#### All times are in CDT (UTC -5)
 <!-- #### Location: West 109 + 110, Area West Level 1 -->
 <!-- #### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live) -->
 

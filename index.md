@@ -19,9 +19,9 @@ use-site-title: true
 
 Mathematical reasoning is a core ability of human intelligence and plays an important role in the development of general machine intelligence. The machine learning community has contributed significantly to mathematical reasoning research in the last decades, and recently, there has been a surge of interest in this domain. For example, large neural models have led to rapid progress in areas ranging from  word problems to formal theorem proving. However, there is a large performance gap between models and top mathematicians. To this end, the MATH-AI workshop will center around the question: 
 
-*``How can machines achieve human-level mathematical reasoning?''*
+*“How can machines achieve human-level mathematical reasoning?”*
 
-Specifically, the goal of this workshop is to find out ``when machines can surpass human experts in different mathematical domains?". To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
+Specifically, the goal of this workshop is to find out “when machines can surpass human experts in different mathematical domains?”. To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
 - **Humans vs. machines**: How does human-level mathematical reasoning differ from today's methods?
 - **Measurement**: How should we measure and benchmark progress moving forward?
 - **Key technical areas**: What machine learning advances are needed to close the gap with humans?

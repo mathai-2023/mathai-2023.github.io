@@ -1,0 +1,14 @@
+fcharton:
+    name: "François Charton"
+    url: "{https://scholar.google.com/citations?user=1tMnd-4AAAAJ&hl=en"
+    affiliation: "Meta AI"
+    img: "fcharton.jpg"
+    bio: "François Charton is a Research Engineer at Meta AI Research. He studies AI for mathematics with a focus on symbolic mathematics, which includes learning advanced computations (e.g. integration, differential systems, linear algebra) and symbolic regression. Previously, he was a visiting entrepreneur at Facebook AI and CEO/Founder of Carthage."
+
+pclark:
+    name: "Peter Clark"
+    url: "https://allenai.org/team/peterc"
+    affiliation: "AI2"
+    img: "pclark.jpg"
+    bio: "Peter Clark is the Senior Research Manager for AI2. His work focuses on natural language processing, machine reasoning, large knowledge bases, and the interplay between these three areas. He has received several awards including a AAAI Best Paper (1997), Boeing Associate Technical Fellowship (2004), and AAAI Senior Member (2014). He is leading the Aristo team at AI2, and recently, he has been working on research areas including neuro-symbolic reasoning and universal mathematical reasoners."
+

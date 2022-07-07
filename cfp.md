@@ -10,7 +10,7 @@ use-site-title: true
 
 # Call for Papers
 
-The goal of this workshop is to find out ``when machines can surpass human experts in different mathematical domains?". To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
+The goal of this workshop is to find out “when machines can surpass human experts in different mathematical domains?”. To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
 - **Humans vs. machines**: How does human-level mathematical reasoning differ from today's methods?
 - **Measurement**: How should we measure and benchmark progress moving forward?
 - **Key technical areas**: What machine learning advances are needed to close the gap with humans?
