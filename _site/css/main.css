@@ -9,7 +9,7 @@ body {
   position: relative;
   background-color: #FFFFFF;
   
-  background-image: url(/img/mathai.png);
+  background-image: url(/img/mathai2022.png);
   background-attachment: fixed;
   
 }
@@ -107,6 +107,9 @@ img {
   background-color: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
+  background-image: url(/img/mathai2022.png);
+  background-attachment: fixed;
   
 }
 
@@ -268,7 +271,7 @@ footer {
   font-size: 14px;
   background-color: #F5F5F5;
   
-  background-image: url(/img/mathai.png);
+  background-image: url(/img/mathai2022.png);
   background-attachment: fixed;
   
 }
