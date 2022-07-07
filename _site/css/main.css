@@ -108,9 +108,6 @@ img {
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
-  background-image: url(/img/mathai2022.png);
-  background-attachment: fixed;
-  
 }
 
 .navbar-custom .nav li a {
