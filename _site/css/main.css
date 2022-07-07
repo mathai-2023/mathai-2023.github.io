@@ -9,9 +9,6 @@ body {
   position: relative;
   background-color: #FFFFFF;
   
-  background-image: url(/img/mathai2022.png);
-  background-attachment: fixed;
-  
 }
 p {
   line-height: 1.5;
@@ -267,9 +264,6 @@ footer {
   margin-top: 50px;
   font-size: 14px;
   background-color: #F5F5F5;
-  
-  background-image: url(/img/mathai2022.png);
-  background-attachment: fixed;
   
 }
 

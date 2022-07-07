@@ -8,11 +8,11 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MATH-AI Workshop at NeurIPS'22
+title: MATHAI4ED Workshop at NeurIPS'21
 
 
 # Short description of your site
-description: Math-AI
+description: Math AI for Education
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   # - Learn markdown: "http://www.markdowntutorial.com/"
   # - GitHub Pages: "https://pages.github.com/"
   # Organizers: "#organizers"
-  About: "https://mathai2022.github.io/"
+  About: "https://mathai4ed.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -54,15 +54,15 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/mathai2022.png"
-# footer-img: "/img/mathai2022.png"
-# page-img: "/img/mathai2022.png"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Organizers of MATH-AI NeurIPS 2022 Workshop
+author: Organizers of MATHAI4ED NeurIPS 2021 Workshop
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,7 +70,7 @@ author: Organizers of MATH-AI NeurIPS 2022 Workshop
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   # rss: true
-  email: "mathai2022@gmail.com"
+  email: "mathai4ed.neurips2021@gmail.com"
   # facebook: daattali
   # github: daattali
   # twitter: daattali
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mathai2022.github.io" # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mathai4ed.github.io" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
