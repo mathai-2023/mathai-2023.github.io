@@ -26,4 +26,20 @@ ckaliszyk:
     img: "ckaliszyk.jpg"
     bio: "Cezary Kaliszyk is an Assistant Professor at the University of Innsbruck, where he leads the Computational Logic Group. He studies machine learning for reasoning and formal methods. He co-organized the 2021 Conference on Artificial Intelligence and Theorem Proving (AITP) and co-chaired the 2021 Conference on Interactive Theorem Proving (ITP). Recent projects include developing uniform learning-reasoning systems that support multiple logical foundations, machine learning for automated theorem proving, and proof automation."
 
+bneyshabur:
+    name: "Behnam Neyshabur"
+    url: "https://www.neyshabur.net/"
+    affiliation: "Google"
+    img: "behnam.jpg"
+    bio: "Behnam Neyshabur is a senior staff research scientist at Google. Before that, he was a postdoctoral researcher at New York University and a member of Theoretical Machine Learning program at Institute for Advanced Study (IAS) in Princeton. In summer 2017, he received a PhD in computer science at TTI-Chicago. His current primary interest is reasoning and algorithmic capabilities of giant language models, including permutation invariance, out-of-distribution generalization, and mathematical algorithms."
+
+tringer}:
+    name: "Talia Ringer"
+    url: "https://dependenttyp.es/"
+    affiliation: "UIUC"
+    img: "behnam.jpg"
+    bio: "Behnam Neyshabur is a senior staff research scientist at Google. Before that, he was a postdoctoral researcher at New York University and a member of Theoretical Machine Learning program at Institute for Advanced Study (IAS) in Princeton. In summer 2017, he received a PhD in computer science at TTI-Chicago. His current primary interest is reasoning and algorithmic capabilities of giant language models, including permutation invariance, out-of-distribution generalization, and mathematical algorithms."
+
+
+
 
