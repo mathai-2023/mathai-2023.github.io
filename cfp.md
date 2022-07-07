@@ -25,7 +25,6 @@ The intended outcome is to identify missing elements and meaningful directions f
 
 In addition to the problem areas above, we are interested in research related to the following themes:
 - **Algorithms**: Can better algorithms (e.g. learning, planning) close the gap with human-level abilities?
-- **Analysis**: What are our current models learning?
 - **Analysis**: What are the drawbacks or limitations of current models and evaluation methods with respect to mathematical reasoning (e.g. robustness, generalization)? 
 - **Flexibility**: How do we build mathematical reasoning systems that are generic and flexible?
 - **Reliability**: How can we ensure that models generate reliable and trustworthy results?

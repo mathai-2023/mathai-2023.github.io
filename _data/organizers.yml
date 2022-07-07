@@ -1,7 +1,7 @@
 plu:
   name: "Pan Lu"
   url: "https://lupantech.github.io/"
-  affiliation: "UCLA"
+  affiliation: "UCLA, AI2"
   img: "panlu.jpg"
 smishra:
   name: "Swaroop Mishra"
@@ -16,7 +16,7 @@ swelleck:
 ywu:
   name: "Yuhuai (Tony) Wu"
   url: "http://www.cs.toronto.edu/~ywu/"
-  affiliation: "Stanford University / Google"
+  affiliation: "Stanford University, Google"
   img: "ywu.png"
 hhajishirzi:
   name: "Hannaneh Hajishirzi"
