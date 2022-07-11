@@ -141,4 +141,4 @@ In addition to the problem areas above, we are interested in research related to
 
 <hr>
 
-Contact: <mathai2022@gmail.com>.
+Contact: <mathai.neurips2022@gmail.com>.

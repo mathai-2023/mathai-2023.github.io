@@ -51,4 +51,4 @@ All accepted papers will be presented in a virtual poster session, and some will
 
 Submission Link: [https://cmt3.research.microsoft.com/MATHAI2022](https://cmt3.research.microsoft.com/MATHAI2022)
 
-Please email any enquiries to [mathai2022@gmail.com](mailto:mathai2022@gmail.com).
+Please email any enquiries to [mathai.neurips2022@gmail.com](mailto:mathai.neurips2022@gmail.com).
