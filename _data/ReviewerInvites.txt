@@ -1,4 +1,6 @@
 First Name	Last Name	Email	Organization	Sent	Expires	Track	Status	Comment	Added to Role
+Aakanksha	Naik	aakankshanaik19@gmail.com	Allen Institute for Artificial Intelligence	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
+Abhilasha	Ravichander	aravicha@cs.cmu.edu	Carnegie Mellon University	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
 Ankit	Gupta	ankitgupta.iitkanpur@gmail.com	IBM Research	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
 Christian	Szegedy	szegedy@google.com	Google	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
 Frieda	Rong	rongf@stanford.edu	Stanford University	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
