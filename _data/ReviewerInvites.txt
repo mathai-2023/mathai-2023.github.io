@@ -24,6 +24,7 @@ Sean	Welleck	wellecks@uw.edu	University of Washington	7/25/2022 7:25:09 AM -07:0
 Shifeng	Huang	huangshifeng@cvte.com	CVTE Research	9/11/2022 1:11:41 PM -07:00	9/18/2022 1:11:41 PM -07:00	MATHAI2022	Accepted		Yes
 Somak	Aditya	saditya1@asu.edu	IIT Kharagpur	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
 Stanislas	Polu	spolu@protonmail.com	OpenAI	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted		Yes
+Swaroop	Mishra	swaroopranjanmishra@gmail.com	self	9/12/2022 8:55:35 AM -07:00	9/19/2022 8:55:35 AM -07:00	MATHAI2022	Accepted		Yes
 Tongwen	Huang	towanhuang@tencent.com	Tencent	9/11/2022 1:07:37 PM -07:00	9/18/2022 1:07:37 PM -07:00	MATHAI2022	Accepted		Yes
 Wenda	Li	wl302@cam.ac.uk	University of Cambridge	7/25/2022 7:25:09 AM -07:00	8/1/2022 7:25:09 AM -07:00	MATHAI2022	Accepted	Thanks for the invitation. I am happy to review papers for the workshop.	Yes
 Yao	Fu	yao.fu@ed.ac.uk	University of Edinburgh	9/11/2022 1:00:14 PM -07:00	9/18/2022 1:00:14 PM -07:00	MATHAI2022	Accepted	Thank you for your invitation! 	Yes
