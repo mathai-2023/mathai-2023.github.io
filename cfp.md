@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <!-- (NeurIPS 2022 Workshop: <a href="https://neurips.cc/Conferences/2022" target="_blank">Website</a>) <br> -->
-  (New Orleans, December 03, 2022, <a href="https://neurips.cc/Conferences/2022" target="_blank">Website</a>)
+  (New Orleans, December 03, 2022, <a href="https://neurips.cc/virtual/2022/workshop/50015" target="_blank">Website</a>)
 </div>
 
 # Call for Papers
@@ -44,11 +44,11 @@ In addition to the problem areas above, we are interested in research related to
 
 ### Submission Requirements
 
-Submissions to Math-AI 2022 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
+Submissions to MATH-AI 2022 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
-All submissions must be formatted with LaTeX using the [NeurIPS paper format (Adapted)](img/NeurIPS2022_MathAI.zip).
+All submissions must be formatted with LaTeX using the [NeurIPS paper format (Adapted)](img/NeurIPS2022_MATHAI.zip).
 
-All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the Math-AI 2022 homepage, but are to be considered non-archival.
+All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MATH-AI 2022 homepage, but are to be considered non-archival.
 
 Submission Link: [https://cmt3.research.microsoft.com/MATHAI2022](https://cmt3.research.microsoft.com/MATHAI2022)
 
