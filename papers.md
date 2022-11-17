@@ -174,7 +174,7 @@ use-site-title: true
     [<a href="">Video</a>] -->
     <br><br>
   
-  19. <b>Ghose, Amur; Levi, Amit; Zhang, Yingxue</b><br>     
+  19. <b>Improving Compositional Generalization in Math Word Problem Solving</b><br>     
     <i>Lan, Yunshi; Wang, Lei; Jiang, Jing; Lim, Ee-peng</i>
     [<a href="19.pdf">Paper</a>]
     <!-- [<a href="posters/2.png">Poster</a>]
