@@ -12,9 +12,12 @@ use-site-title: true
 # Schedule
 
 #### Saturday, December 03, 2022
-#### All times are in CDT (UTC -5)
-<!-- #### Location: West 109 + 110, Area West Level 1 -->
-<!-- #### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live) -->
+#### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
+
+
+#### Location: Room 293 - 294, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
+#### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015)
+
 
 
 <div class="container">
