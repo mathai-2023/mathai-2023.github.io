@@ -105,7 +105,7 @@ panel1:
   event: "Panel Discussion"
   title: "MATH-AI: Toward Human-Level Mathematical Reasoning"
   # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
-  speakers: ["pclark", "ngoodman", "tringer", "dselsam"]
+  speakers: ["ngoodman", "tringer", "dselsam"]
   start: "17:00-18:00"
   type: "Panel"  
 
