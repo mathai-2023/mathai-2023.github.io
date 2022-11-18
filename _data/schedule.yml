@@ -49,7 +49,7 @@ contrib1:
   type: "Contributed"
 
 contrib2:
-  title: "Towards Grounded Natural Language Proof Generation"
+  title: "Solving Math Word Problems with Process-based and Outcome-based Feedback"
   name: "Jonathan Uesato"
   url: "https://scholar.google.co.uk/citations?user=E_-4S6wAAAAJ&hl=en"
   affiliation: "DeepMind"
