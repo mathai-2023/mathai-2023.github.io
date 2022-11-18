@@ -50,8 +50,8 @@ contrib1:
 
 contrib2:
   title: "Solving Math Word Problems with Process-based and Outcome-based Feedback"
-  name: "Jonathan Uesato"
-  url: "https://scholar.google.co.uk/citations?user=E_-4S6wAAAAJ&hl=en"
+  name: "Nate Kushman"
+  url: "http://www.kushman.org/"
   affiliation: "DeepMind"
   start: "13:20-13:40"
   type: "Contributed"
@@ -105,7 +105,7 @@ panel1:
   event: "Panel Discussion"
   title: "MATH-AI: Toward Human-Level Mathematical Reasoning"
   # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
-  speakers: ["ngoodman", "tringer", "dselsam"]
+  speakers: ["fcharton", "ngoodman", "bneyshabur", "tringer", "dselsam"]
   start: "17:00-18:00"
   type: "Panel"  
 
