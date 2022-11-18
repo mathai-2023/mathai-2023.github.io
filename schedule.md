@@ -86,7 +86,7 @@ use-site-title: true
               {% else %}
                 <a href="{{speaker.url}}">{{ speaker.name }}</a> ({{speaker.affiliation}})
               {% endif %}
-              {% if forloop.index == 3 %}
+              {% if forloop.index == 5 %}
                   <br>
               {% endif %}
             {% endfor %}
