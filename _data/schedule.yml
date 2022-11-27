@@ -21,20 +21,14 @@ jsteinhardt:
   start: "10:00-10:30"
   type: "Invited"
 
-break1:
-  event: "Coffee Break"
-  title: ""
-  start: "10:30-11:00"
-  type: "General"
-
 poster1:
-  event: "Poster Session 1"
+  event: "Poster Session"
   title: ""
   author: ""
-  start: "11:00-12:00"
+  start: "10:30-12:00"
   type: "General"
 
-break2:
+break1:
   event: "Lunch Break"
   title: ""
   start: "12:00-13:00"
@@ -64,16 +58,15 @@ contrib3:
   start: "13:40-14:00"
   type: "Contributed"
 
-break3:
+pclark:
+  event: "pclark"
+  title: "Title: TBD (remote)"
+  start: "14:00-14:30"
+  type: "Invited"
+
+break2:
   event: "Coffee Break"
   title: ""
-  start: "14:00-14:30"
-  type: "General"
-
-poster2:
-  event: "Poster Session 2"
-  title: ""
-  author: ""
   start: "14:30-15:00"
   type: "General"
 
@@ -89,27 +82,16 @@ ngoodman:
   start: "15:30-16:00"
   type: "Invited"
 
-pclark:
-  event: "pclark"
-  title: "Title: TBD (remote)"
-  start: "16:00-16:30"
-  type: "Invited"
-
-break4:
-  event: "Coffee Break"
-  title: ""
-  start: "16:30-17:00"
-  type: "General"
 
 panel1:
   event: "Panel Discussion"
   title: "MATH-AI: Toward Human-Level Mathematical Reasoning"
   # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
   speakers: ["fcharton", "ngoodman", "bneyshabur", "tringer", "dselsam"]
-  start: "17:00-18:00"
+  start: "16:00-16:55"
   type: "Panel"  
 
 closing:
   event: "Closing Remarks"
-  start: "18:00-18:05"
+  start: "16:55-17:00"
   type: "General"
