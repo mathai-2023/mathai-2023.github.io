@@ -60,7 +60,7 @@ contrib3:
 
 pclark:
   event: "pclark"
-  title: "Title: TBD (remote)"
+  title: "Towards Systematic Reasoning with Language Models"
   start: "14:00-14:30"
   type: "Invited"
 
