@@ -6,25 +6,25 @@ plu:
 smishra:
   name: "Swaroop Mishra"
   url: "https://swarooprm.github.io/"
-  affiliation: "Arizona State University"
+  affiliation: "ASU"
   img: "smishra.png"
 swelleck:
   name: "Sean Welleck"
   url: "https://cs.nyu.edu/~welleck/"
-  affiliation: "University of Washington, AI2"
+  affiliation: "UW, AI2"
   img: "swelleck.png"
 ywu:
   name: "Yuhuai (Tony) Wu"
   url: "http://www.cs.toronto.edu/~ywu/"
-  affiliation: "Stanford University, Google"
+  affiliation: "Stanford, Google"
   img: "ywu.png"
 hhajishirzi:
   name: "Hannaneh Hajishirzi"
   url: "https://homes.cs.washington.edu/~hannaneh/"
-  affiliation: "University of Washington, AI2"
+  affiliation: "UW, AI2"
   img: "hhajishirzi.jpg"
 pliang:
   name: "Percy Liang"
   url: "https://cs.stanford.edu/~pliang/"
-  affiliation: "Stanford University"
+  affiliation: "Stanford"
   img: "pliang.jpeg"
