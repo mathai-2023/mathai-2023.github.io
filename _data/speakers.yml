@@ -24,7 +24,7 @@ klauter:
     url: "https://ai.facebook.com/people/kristin-lauter/"
     affiliation: "FAIR Labs North America, Meta"
     img: "klauter.jpg"
-    bio: "Kristin Estella Lauter is a renowned American mathematician and cryptographer, currently she is the West Coast Head of Research Science for Facebook AI Research (FAIR)."
+    bio: "Kristin Estella Lauter is a renowned American mathematician and cryptographer, currently she is the West Coast Head of Research Science for Facebook AI Research (FAIR). She was a Partner Research Manager at Microsoft Research for 22 years. Before that, She worked as an assistant Professor of Mathematics at the University of Michigan."
 
 hsedghi:
     name: "Hanie Sedghi"
@@ -52,7 +52,7 @@ exing:
     url: "https://mbzuai.ac.ae/study/faculty/professor-eric-xing/"
     affiliation: "MBZUAI"
     img: "exing.jpg"
-    bio: "Prior to current commitment, he was a professor in the School of Computer Science at CMU. He works on machine learning, computational biology, and statistical methodology."
+    bio: "Eric is the President and University Professor of Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). Prior to current commitment, he was a professor in the School of Computer Science at CMU. He works on machine learning, computational biology, and statistical methodology."
 
 dzhou:
     name: "Denny Zhou"
