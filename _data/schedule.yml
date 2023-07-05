@@ -4,20 +4,20 @@ opening:
   type: "General"
 
 ckaliszyk:
-  event: "ckaliszyk"
-  title: "Reasoning and Abstraction as Challenges for AI"
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
   start: "09:00-09:30"
   type: "Invited"
 
 bneyshabur:
-  event: "bneyshabur"
-  title: "Length Generalization in Quantitative Reasoning"
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
   start: "09:30-10:00"
   type: "Invited"
 
 jsteinhardt:
-  event: "jsteinhardt"
-  title: "Has Progress on Math been Surprising?"
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
   start: "10:00-10:30"
   type: "Invited"
 
@@ -35,32 +35,32 @@ break1:
   type: "General"
 
 contrib1:
-  title: "Teaching Algorithmic Reasoning via In-context Learning"
-  name: "Hattie Zhou"
-  url: "https://hattiezhou.com/"
-  affiliation: "Université de Montréal"
+  title: "<PLACEHOLDER>"
+  name: "<PLACEHOLDER>"
+  #url: "https://hattiezhou.com/"
+  #affiliation: "Université de Montréal"
   start: "13:00-13:20"
   type: "Contributed"
 
 contrib2:
-  title: "Solving Math Word Problems with Process-based and Outcome-based Feedback"
-  name: "Nate Kushman"
-  url: "http://www.kushman.org/"
-  affiliation: "DeepMind"
+  title: "<PLACEHOLDER>"
+  name: "<PLACEHOLDER>"
+  #url: "http://www.kushman.org/"
+  #affiliation: "DeepMind"
   start: "13:20-13:40"
   type: "Contributed"
 
 contrib3:
-  title: "ProofNet: A Benchmark for Autoformalizing and Formally Proving Undergraduate-Level Mathematics Problems"
-  name: "Zhangir Azerbayev"
-  url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
-  affiliation: "Yale University"
+  title: "<PLACEHOLDER>"
+  name: "<PLACEHOLDER>"
+  #url: "https://www.linkedin.com/in/zhangir-azerbayev-314ab21b8/"
+  #affiliation: "Yale University"
   start: "13:40-14:00"
   type: "Contributed"
 
 pclark:
-  event: "pclark"
-  title: "Towards Systematic Reasoning with Language Models"
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
   start: "14:00-14:30"
   type: "Invited"
 
@@ -71,23 +71,23 @@ break2:
   type: "General"
 
 fcharton:
-  event: "fcharton"
-  title: "Leveraging Maths to Understand Transformers"
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
   start: "15:00-15:30"
   type: "Invited"
 
 ngoodman:
-  event: "ngoodman"
-  title: "Learning Mathematical Reasoning for Education"
+  event: "<PLACEHOLDER>"
+  title: "<PLACEHOLDER>"
   start: "15:30-16:00"
   type: "Invited"
 
 
 panel1:
   event: "Panel Discussion"
-  title: "MATH-AI: Toward Human-Level Mathematical Reasoning"
+  title: "MATH-AI: AI and Mathematical Reasoning"
   # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
-  speakers: ["fcharton", "ngoodman", "bneyshabur", "tringer", "dselsam"]
+  speakers: ["<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>", "<PLACEHOLDER>"]
   start: "16:00-16:55"
   type: "Panel"  
 

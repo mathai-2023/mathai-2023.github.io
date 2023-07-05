@@ -1,13 +1,12 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "Toward Human-Level Mathematical Reasoning"
-# venue: "NeurIPS Workshop 2021, December 13, 2021"
+subtitle: "The 3rd Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <!-- (NeurIPS 2022 Workshop: <a href="https://neurips.cc/Conferences/2022" target="_blank">Website</a>) <br> -->
-  (New Orleans, December 03, 2022, <a href="https://neurips.cc/virtual/2022/workshop/50015" target="_blank">Website</a>)
+  (New Orleans, December 05/06, 2023, <a href="https://neurips.cc/Conferences/2023" target="_blank">Website</a>)
 </div>
 
 
@@ -19,6 +18,7 @@ use-site-title: true
 
 <div class="container" style="margin-bottom: 10px;"></div>
 
+- 2nd MATH-AI Workshop at NeurIPS'22: [Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
 - 1st MATH-AI Workshop at ICLR'21: [The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
 - MATHAI4ED Workshop at NeurIPS'21: [Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)
 
@@ -26,29 +26,23 @@ use-site-title: true
 
 # Overview
 
-Mathematical reasoning is a core ability of human intelligence and plays an important role in the development of general machine intelligence. The machine learning community has contributed significantly to mathematical reasoning research in the last decades, and recently, there has been a surge of interest in this domain. For example, large neural models have led to rapid progress in areas ranging from  word problems to formal theorem proving. However, there is a large performance gap between models and top mathematicians. To this end, the MATH-AI workshop will center around the question: 
+Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts.
 
-*“How can machines achieve human-level mathematical reasoning?”*
+Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
 
-Specifically, the goal of this workshop is to find out “when machines can surpass human experts in different mathematical domains?”. To investigate this question, we are interested in bringing together a group of scholars from various backgrounds, institutions, and disciplines to discuss areas related to the following:
-- **Humans vs. machines**: How does human-level mathematical reasoning differ from today's methods?
-- **Measurement**: How should we measure and benchmark progress moving forward?
-- **Key technical areas**: What machine learning advances are needed to close the gap with humans?
-- **Beyond human-level**: Is human-level reasoning the right goal for all aspects of mathematics?
-- **Augmentations**: How can we develop methods that can augment humans in performing mathematical reasoning tasks (e.g. teaching, formulating conjectures,  identifying interesting theorems to prove)?
+Our proposed workshop is centered on the intersection of deep learning and mathematical reasoning, with an emphasis on, but not limited to, large language models. 
+Our guiding theme is:
 
-The intended outcome is to identify missing elements and meaningful directions for future research related to mathematical reasoning. To this end, we welcome papers on areas related, but not limited, to:
+*“To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?”*
 
-- **Problem solving**: informal  and symbolic problem solving tasks and associated methods (e.g.  word and geometry problems, IQ tests, symbolic regression).
-- **Theorem proving**: machine learning methods for automated and interactive theorem proving and related problems (e.g. conjecturing, autoformalization).
-- **Reasoning in related areas**: program synthesis and software verification, common-sense andnatural language reasoning, retrosynthesis analysis, cognitive and neurosymbolic reasoning mechanisms.
+To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
+- **Humans vs. machines**: A comparative study of human-level mathematical reasoning and current AI techniques. How do they differ, complement one another, or intersect?
+- **Measuring mathematical reasoning**: How do we design benchmarks which accurately evaluate mathematical reasoning abilities, especially in an era of large language models?
+- **New capabilities**: How do we move beyond our current techniques?
+- **Education**: What role can deep learning models play in mathematics education, especially in contexts with limited educational resources?
+- **Applications**: What applications could AI systems enable in the near- and long-term? Example domains include software verification, sciences, engineering, finance, education, and mathematics itself.
 
-In addition to the problem areas above, we are interested in research related to the following themes:
-- **Algorithms**: Can better algorithms (e.g. learning, planning) close the gap with human-level abilities?
-- **Analysis**: What are the drawbacks or limitations of current models and evaluation methods with respect to mathematical reasoning (e.g. robustness, generalization)? 
-- **Flexibility**: How do we build mathematical reasoning systems that are generic and flexible?
-- **Reliability**: How can we ensure that models generate reliable and trustworthy results?
-- **Transfer**: Can we leverage common structure between tasks to improve general mathematical ability?
+
 
 
 <!-- | ------------- |:-------------:|
@@ -134,6 +128,8 @@ In addition to the problem areas above, we are interested in research related to
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
+
+- [NeurIPS'22 Workshop on MATH-AI - Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
 - [NeurIPS'21 workshop on MATHAI4ED - Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)
 - [ICLR'21 workshop on MATH-AI - The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
 - [NeurIPS'20 Workshop on KR2ML - Knowledge Representation & Reasoning Meets Machine Learning](https://kr2ml.github.io/2020)
@@ -144,4 +140,4 @@ In addition to the problem areas above, we are interested in research related to
 
 <hr>
 
-Contact: <mathai.neurips2022@gmail.com>.
+Contact: <mathai.neurips2023@gmail.com>.

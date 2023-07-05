@@ -1,30 +1,35 @@
+zliang:
+  name: "Zhenwen Liang"
+  url: "http://zhenwen-nlp.github.io/"
+  affiliation: "Notre Dame"
+  img: "zliang.jpg"
+ajiang:
+  name: "Albert Qiaochu Jiang"
+  url: "https://albertqjiang.github.io/"
+  affiliation: "Cambridge"
+  img: "ajiang.jpg"
+kcollins:
+  name: "Katie Collins"
+  url: "https://collinskatie.github.io/"
+  affiliation: "Cambridge"
+  img: "kcollins.png"
 plu:
   name: "Pan Lu"
   url: "https://lupantech.github.io/"
-  affiliation: "UCLA, AI2"
+  affiliation: "UCLA"
   img: "panlu.jpg"
-smishra:
-  name: "Swaroop Mishra"
-  url: "https://swarooprm.github.io/"
-  affiliation: "ASU"
-  img: "smishra.png"
+kyang:
+  name: "Kaiyu Yang"
+  url: "https://yangky11.github.io/"
+  affiliation: "Caltech"
+  img: "kyang.jpg"
 swelleck:
   name: "Sean Welleck"
   url: "https://cs.nyu.edu/~welleck/"
   affiliation: "UW, AI2"
   img: "swelleck.png"
-ywu:
-  name: "Yuhuai (Tony) Wu"
-  url: "http://www.cs.toronto.edu/~ywu/"
-  affiliation: "Stanford, Google"
-  img: "ywu.png"
-hhajishirzi:
-  name: "Hannaneh Hajishirzi"
-  url: "https://homes.cs.washington.edu/~hannaneh/"
-  affiliation: "UW, AI2"
-  img: "hhajishirzi.jpg"
 pliang:
-  name: "Percy Liang"
-  url: "https://cs.stanford.edu/~pliang/"
+  name: "Jay McClelland"
+  url: "https://stanford.edu/~jlmcc/"
   affiliation: "Stanford"
-  img: "pliang.jpeg"
+  img: "jmcclelland.png"
