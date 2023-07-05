@@ -90,6 +90,7 @@ To address this question, we aim to bring together a diverse group of scholars f
 
 <hr>
 
+# Organizers
 <!-- # Organizers -->
 
 <!-- prettier-ignore -->
