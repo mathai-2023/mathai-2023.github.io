@@ -44,6 +44,6 @@ All submissions must be formatted with LaTeX using the [NeurIPS paper format (Ad
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be published on the MATH-AI 2022 homepage, but are to be considered non-archival.
 
-Submission Link: [https://mathai-2023.github.io/](https://mathai-2023.github.io/) 
+Submission Link: [Will be available soon.](https://mathai-2023.github.io/) 
 
 Please email any enquiries to [mathai.neurips2023@gmail.com](mailto:mathai.neurips2023@gmail.com).
