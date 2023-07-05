@@ -63,7 +63,7 @@ To address this question, we aim to bring together a diverse group of scholars f
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
-    {% if forloop.index<=4 %}
+    {% if forloop.index<=5 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
@@ -72,7 +72,7 @@ To address this question, we aim to bring together a diverse group of scholars f
   <div class="row">
     {% for p in site.data.speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>4 and forloop.index<=10%}
+    {% if forloop.index>5 and forloop.index<=10%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
