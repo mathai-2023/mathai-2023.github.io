@@ -1,22 +1,22 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "Toward Human-Level Mathematical Reasoning"
+subtitle: "The 3rd Workshop on Mathematical Reasoning and AI"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <!-- (NeurIPS 2022 Workshop: <a href="https://neurips.cc/Conferences/2022" target="_blank">Website</a>) <br> -->
-  (New Orleans, December 03, 2022, <a href="https://neurips.cc/virtual/2022/workshop/50015" target="_blank">Website</a>)
+  <!-- (NeurIPS 2023 Workshop: <a href="https://neurips.cc/Conferences/2023" target="_blank">Website</a>) <br> -->
+  (New Orleans, December 15/16, 2023, <a href="https://neurips.cc/Conferences/2023" target="_blank">Website</a>)
 </div>
 
 # Schedule
 
-#### Saturday, December 03, 2022
+#### Saturday, December 15/16, 2022
 #### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
 
 
-#### Location: Room 293 - 294, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
-#### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015)
+#### Location: Room XXX, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
+#### Live video stream: [Link](https://mathai-2023.github.io/)
 
 
 
