@@ -99,7 +99,7 @@ To address this question, we aim to bring together a diverse group of scholars f
   <div class="row" style="margin: -30px;"> -->
   <div class="row">
     {% for p in site.data.organizers %}
-    {% if forloop.index<=3 %}
+    {% if forloop.index<=4 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
@@ -108,7 +108,7 @@ To address this question, we aim to bring together a diverse group of scholars f
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>3 and forloop.index<=6%}
+    {% if forloop.index>4 and forloop.index<=7%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
